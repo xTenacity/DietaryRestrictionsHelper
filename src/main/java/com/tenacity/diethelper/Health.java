@@ -29,7 +29,6 @@ public void conditionRecipes(int num){
 }
 
     public void recipeDetails(){
-    .conditions;
     }  
 
 public static void main(String[] args) {
